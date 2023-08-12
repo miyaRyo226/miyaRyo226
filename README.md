@@ -19,7 +19,9 @@
 
 [![miyaRyo226's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyaRyo226&show_icons=true&theme=dracula
 )](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyaRyo226&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=miyaRyo226&show_icons=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miyaRyo226&theme=dracula)](https://git.io/streak-stats)
 
