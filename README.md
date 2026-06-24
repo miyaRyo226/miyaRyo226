@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🏠 Lives in Kumamoto, Japan.
+- 🏠 Lives in Nagano, Japan.
 - 🏢 Engineer at TechFeed Inc.
 - 💡 Interested in MCP tools.
 - 🗣️ Known as miyamon.
