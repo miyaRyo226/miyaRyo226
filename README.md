@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🏠 Lives in Nagano, Japan.
-- 🏢 Engineer at TechFeed Inc.
+- 🏢 Engineer at Hajimari Inc.
 - 💡 Interested in MCP tools.
 - 🗣️ Known as miyamon.
 
